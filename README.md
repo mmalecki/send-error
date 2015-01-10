@@ -1,4 +1,5 @@
 # send-error
+[![Build Status](https://travis-ci.org/mmalecki/send-error.png?branch=master)](https://travis-ci.org/mmalecki/send-error)
 Send errors as HTTP bodies, with some opinionated, but sensible defaults and
 conventions.
 
