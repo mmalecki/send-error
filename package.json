@@ -3,7 +3,7 @@
   "version": "1.0.0-2",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Send errors as HTTP bodies, with some opinionated, but sensible defaults and conventions",
-  "dependencies": {
+  "devDependencies": {
     "assert-called": "^0.1.2-1"
   },
   "repository": {
