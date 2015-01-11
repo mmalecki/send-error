@@ -6,6 +6,10 @@
   "dependencies": {
     "assert-called": "^0.1.2-1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/send-error.git"
+  },
   "scripts": {
     "test": "node test/simple-test.js"
   }
