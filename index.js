@@ -19,6 +19,6 @@ module.exports = function(options) {
   return function(req, res, err) {
     if (onerror) onerror(req, res, err)
     res.writeHead(err.statusCode || 500, {'content-type': contentType})
-    res.end(stringifyError(err, exclude))
+    res.end(err.body || stringifyError(err, exclude))
   }
 };
