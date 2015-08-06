@@ -1,6 +1,6 @@
 {
   "name": "send-error",
-  "version": "1.0.0-3",
+  "version": "1.0.1",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Send errors as HTTP bodies, with some opinionated, but sensible defaults and conventions",
   "devDependencies": {
